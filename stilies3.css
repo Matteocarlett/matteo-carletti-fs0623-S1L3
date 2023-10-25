@@ -1,0 +1,24 @@
+body{ font-family: Georgia, 'Times New Roman', Times, serif;
+   margin: 0%;
+
+   }
+     header p{
+    color: green;
+    background-color: rgba(240, 230, 147, 0.329);
+    
+   }
+   #first{
+    text-transform: uppercase;
+   }
+
+   #primalink{
+    color: rgb(223, 57, 7);
+   }
+
+   li{
+    margin-top: 15px;
+   }
+
+   .h3{
+    margin-top: 50px;
+    }
